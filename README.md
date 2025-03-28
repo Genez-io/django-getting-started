@@ -53,7 +53,7 @@ If you need support or you have any questions, please join us in our [Discord ch
 
 - [Genezio](https://genezio.com/)
 - [Python](https://www.python.org/)
-- [Django](https:/www.djangoproject.com/))
+- [Django](https:/www.djangoproject.com/)
 
 ***
 
